@@ -15,4 +15,6 @@ Python/Flask, JavaSscript/React/Next.js, SQL
 
 ---
 
-### read more... [HERE](https://ballot.hackmit.org/project/spece-xefnr-iyqng-wifdp)
+### App Demo: [Youtube](https://youtu.be/AN_GnDIGIqY)
+
+### Read more: [Here](https://ballot.hackmit.org/project/spece-xefnr-iyqng-wifdp)
